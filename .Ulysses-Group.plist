@@ -9,6 +9,9 @@
 		<array>
 			<string>README.md</string>
 		</array>
+		<array>
+			<string>Summary.md</string>
+		</array>
 	</array>
 </dict>
 </plist>
